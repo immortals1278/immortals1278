@@ -1,14 +1,10 @@
 # Hi, I'm immortals 👋
-
-Web3 / AI | Solidity | Golang 
+web3 developer / Backend developer
 
 ## 🚀 What I'm working on
 
-
 ## 🛠️ Tech Stack
-Solidity •  Golang • Foundry  
-
-
+Solidity | Golang 
 
 ## 📫 Connect with me
 - X / Twitter: [@1mmortals358887
