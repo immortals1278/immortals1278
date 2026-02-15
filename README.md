@@ -1,15 +1,12 @@
 # Hi, I'm immortals 👋
 
-Web3 / AI | Solidity | vibe coding
-
-Building decentralized tools, learning Web3 
+Web3 / AI | Solidity | Golang 
 
 ## 🚀 What I'm working on
-- Dynamic fee mechanisms in Uniswap-like DEX (Solidity)
-- DCA investment tools of cross-leap blockchain(TypeScript & solidity)
+
 
 ## 🛠️ Tech Stack
-Solidity •  Web3.js/Ethers.js • Hardhat/Foundry •vibe coding 
+Solidity •  Golang • Foundry  
 
 
 
