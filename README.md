@@ -1,10 +1,8 @@
-# Hi, I'm immortals 👋
+# I'm immortals 
 web3 developer / Backend developer
 
-## 🚀 What I'm working on
-
 ## 🛠️ Tech Stack
-Solidity | Golang 
+Golang 
 
 ## 📫 Connect with me
 
