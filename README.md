@@ -1,4 +1,4 @@
-# I'm immortals 
+# I'm 1mmortals 
 web3 developer / Backend developer
 
 ## 🛠️ Tech Stack
